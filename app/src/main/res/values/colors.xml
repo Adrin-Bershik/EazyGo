@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="colorAccent">#0F3EB5</color>
+    <color name="colorAcce">#081333</color>
+    <color name="colorAccen">#081333</color>
+    <color name="colorAc">#081333</color>
+    <color name="home">#e7dfff</color>
+</resources>

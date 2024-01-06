@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "955336226685",
+    "project_id": "eazygo-b1591",
+    "storage_bucket": "eazygo-b1591.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:955336226685:android:9c30feafdd4f94fcdefe14",
+        "android_client_info": {
+          "package_name": "com.example.eazygo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAN9fMiahieETk0-2btKpxqD4lR7pXFTwc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
