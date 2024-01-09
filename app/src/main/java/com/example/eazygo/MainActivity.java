@@ -46,7 +46,7 @@ public class MainActivity<signupActivity> extends AppCompatActivity {
                 String username = signupUsername.getText().toString().trim();
                 String password = signupPassword.getText().toString().trim();
 
-                // Check if any of the fields is empty
+                // Check if any of the fields is empty yes
                 if (name.isEmpty() || email.isEmpty() || username.isEmpty() || password.isEmpty()) {
                     Toast.makeText(MainActivity.this, "Please fill in all fields", Toast.LENGTH_SHORT).show();
                 } else {
